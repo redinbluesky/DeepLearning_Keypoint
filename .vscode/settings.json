@@ -1,0 +1,13 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "terminal.integrated.env.windows": {
+        "HF_TOKEN": "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"
+    },
+    "terminal.integrated.env.osx": {
+        "HF_TOKEN": "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"
+    },
+    "terminal.integrated.env.linux": {
+        "HF_TOKEN": "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"
+    }
+}
